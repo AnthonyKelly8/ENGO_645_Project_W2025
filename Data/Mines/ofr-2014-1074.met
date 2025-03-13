@@ -1,0 +1,1564 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: Berger, Vladimir I.
+        Originator: Mosier, Dan L.
+        Originator: Bliss, James D.
+        Originator: Moring, Barry C.
+        Title: Sediment-hosted gold deposits of the world
+        Publication_Date: 2014
+        Series_Information:
+          Series_Name: Open-File Report
+          Issue_Identification: 2014-1074
+        Publication_Information:
+          Publication_Place: Menlo Park, California
+          Publisher: U.S. Geological Survey
+        Online_Linkage: http://mrdata.usgs.gov/sedau/
+        Online_Linkage: http://pubs.er.usgs.gov/publication/ofr20141074
+    Description:
+      Abstract: Location and characteristics of 123 sediment-hosted gold deposits worldwide.
+      Purpose:
+        These data support new grade and tonnage models that should be
+        helpful for mineral resource assessments depending on the geologic
+        and mineralogical data available for a region.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 2014
+      Currentness_Reference: publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: none planned
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -117.50333
+        East_Bounding_Coordinate: 124.66639
+        North_Bounding_Coordinate: 42.07972
+        South_Bounding_Coordinate: 0.88722
+    Access_Constraints: none
+    Use_Constraints: none
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: Alexandria Digital Library Feature Type Thesaurus
+        Theme_Keyword: mineral deposit areas
+        Theme_Keyword: mine sites
+      Theme:
+        Theme_Keyword_Thesaurus: General glossary for mineral resources spatial data
+        Theme_Keyword: comma-delimited text
+        Theme_Keyword: DBF
+        Theme_Keyword: HTML table
+        Theme_Keyword: shapefile
+        Theme_Keyword: tab-delimited text
+      Theme:
+        Theme_Keyword_Thesaurus: USGS Thesaurus
+        Theme_Keyword: geospatial datasets
+        Theme_Keyword: gold
+        Theme_Keyword: metallic mineral resources
+        Theme_Keyword: sedimentary rocks
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: geoscientificInformation
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Vladimir Berger
+          Contact_Organization: PACIFIC REGION
+        Contact_Position: Contractor
+        Contact_Address:
+          Address_Type: mailing address
+          Address:
+            Mail Stop 901
+            345 Middlefield Road
+          City: Menlo Park
+          State_or_Province: CA
+          Postal_Code: 94025-3561
+          Country: USA
+        Contact_Voice_Telephone: 650-329-5731
+        Contact_Facsimile_Telephone: 650-329-5491
+        Contact_Electronic_Mail_Address: vladimir@usgs.gov
+    Browse_Graphic:
+      Browse_Graphic_File_Name: http://mrdata.usgs.gov/sedau/ofr-2014-1074.png
+      Browse_Graphic_File_Description: Global map image showing geographic distribution of the deposits included in this data source., (540 x 270 pixels)
+      Browse_Graphic_File_Type: PNG
+  Data_Quality_Information:
+    Logical_Consistency_Report:
+      Information about individual deposits was compiled from a variety of
+      reference sources, cited and described in the data; these are not
+      guaranteed to agree in all respects.
+    Completeness_Report: Original report indicates 5 of the studied deposits lacked grade and tonnage information.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: Berger, Vladimir I.
+            Originator: Mosier, Dan L.
+            Originator: Bliss, James D.
+            Originator: Moring, Barry C.
+            Publication_Date: 2014
+            Title:
+              Sediment-hosted gold deposits of the world: database and grade and
+              tonnage models
+            Series_Information:
+              Series_Name: Open-File Report
+              Issue_Identification: 2014-1074
+            Publication_Information:
+              Publication_Place: Reston, VA
+              Publisher: U.S. Geological Survey
+            Online_Linkage: http://pubs.er.usgs.gov/publication/ofr20141074
+        Type_of_Source_Media: digital files
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2014
+          Source_Currentness_Reference: publication date
+        Source_Citation_Abbreviation: ofr20141074
+        Source_Contribution: Published source of these data
+      Process_Step:
+        Process_Description:
+          Modified structure and format of these data for inclusion in the databases and map interfaces of http://mrdata.usgs.gov/
+
+          Some data fields were modified to correct minor spelling errors and remove spaces from the middle of URLs given in the references.
+        Process_Date: 20140512
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Point
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: Entity point
+        Point_and_Vector_Object_Count: 123
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Geographic_Coordinate_Units: decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: World Geodetic System 1984
+        Ellipsoid_Name: WGS 84
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: main
+        Entity_Type_Definition: General characteristics of mineral deposit
+      Attribute:
+        Attribute_Label: recno
+        Attribute_Definition:
+          Record ID.
+
+          Simple record number for this database.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 119
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+      Attribute:
+        Attribute_Label: aggrd0
+        Attribute_Definition:
+          Grade Ag produced.
+
+          Silver grade of produced ore  (grams per tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              100 records have no value for aggrd0.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.003
+            Range_Domain_Maximum: 7
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: aggrd1
+        Attribute_Definition:
+          Grade Ag open pit.
+
+          Silver grade of resources amenable to open-pit mining  (grams per
+          tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              120 records have no value for aggrd1.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 5
+            Range_Domain_Maximum: 7.69
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: aggrd2
+        Attribute_Definition:
+          Grade Ag underground.
+
+          Silver grade of resources amenable to underground mining  (grams per
+          tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              122 records have no value for aggrd2.
+      Attribute:
+        Attribute_Label: aggrd3
+        Attribute_Definition:
+          Grade Ag total.
+
+          Total silver grade of deposit  (grams per tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              5 records have no value for aggrd3.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 7
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: dep10km
+        Attribute_Definition:
+          Associated deposits.
+
+          Other deposits within 10 kilometers.
+          Textual values of no more than 104 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              25 records have no value for dep10km.
+      Attribute:
+        Attribute_Label: auprgrd
+        Attribute_Definition:
+          Grade Au produced.
+
+          Gold grade of produced ore  (grams per tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              52 records have no value for auprgrd.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.55
+            Range_Domain_Maximum: 38.4
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd0
+        Attribute_Definition:
+          Grade cutoff Au open pit reserves.
+
+          Minimum gold grade for reserves amenable to open-pit mining (grams per
+          tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              88 records have no value for augrd0.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 2
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd1
+        Attribute_Definition:
+          Grade Au open pit reserves.
+
+          Gold grade of reserves amenable to open-pit mining  (grams per tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              88 records have no value for augrd1.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.55
+            Range_Domain_Maximum: 7.9
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd2
+        Attribute_Definition:
+          Grade cutoff Au open pit resources.
+
+          Minimum gold grade for resource amenable to open-pit mining  (grams
+          per tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              56 records have no value for augrd2.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 2
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd3
+        Attribute_Definition:
+          Grade Au open pit resources.
+
+          Gold grade  of resource amenable to open-pit mining  (grams per
+          tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              56 records have no value for augrd3.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.54
+            Range_Domain_Maximum: 9.56
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd4
+        Attribute_Definition:
+          Grade cutoff Au underground resources.
+
+          Gold grade of resource amenable to underground mining  (grams per
+          tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              101 records have no value for augrd4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 6.86
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd5
+        Attribute_Definition:
+          Grade Au underground resources.
+
+          Gold grade of reserves amenable to underground mining  (grams per
+          tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              102 records have no value for augrd5.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 3.3
+            Range_Domain_Maximum: 14.9
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd6
+        Attribute_Definition:
+          Grade cutoff Au underground reserves.
+
+          Minimum gold grade for reserve amenable to underground mining  (grams
+          per tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              103 records have no value for augrd6.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 6.86
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd7
+        Attribute_Definition:
+          Grade Au underground reserves.
+
+          Gold grade for reserve amenable to underground mining  (grams per
+          tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              104 records have no value for augrd7.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 4.35
+            Range_Domain_Maximum: 41.8
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: augrd8
+        Attribute_Definition:
+          Grade Au total.
+
+          Total gold grade of deposit  (grams per tonne).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              5 records have no value for augrd8.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.55
+            Range_Domain_Maximum: 38.4
+            Attribute_Units_of_Measure: grams per tonne
+      Attribute:
+        Attribute_Label: bedlens
+        Attribute_Definition:
+          Beds or lenses.
+
+          Presence of beds or lenses.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              16 records have no value for bedlens.
+      Attribute:
+        Attribute_Label: comments
+        Attribute_Definition:
+          Comments.
+
+          Additional notes.
+          Textual values of no more than 1111 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              1 records have no value for comments.
+      Attribute:
+        Attribute_Label: autonne
+        Attribute_Definition:
+          Contained Au.
+
+          Total gold of deposit (tonnes).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              5 records have no value for autonne.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.6
+            Range_Domain_Maximum: 1230
+            Attribute_Units_of_Measure: tonnes
+      Attribute:
+        Attribute_Label: country
+        Attribute_Definition:
+          Country.
+
+          Nation where deposit is found.
+          Textual values of no more than 10 characters.
+      Attribute:
+        Attribute_Label: cntrycode
+        Attribute_Definition:
+          Country abbrevation.
+
+          Four character code of country and possible second order governmental
+          units.
+          Textual values of no more than 5 characters.
+      Attribute:
+        Attribute_Label: crushing
+        Attribute_Definition:
+          Crushing or milling.
+
+          Gold extraction by crushing and milling.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              61 records have no value for crushing.
+      Attribute:
+        Attribute_Label: depage
+        Attribute_Definition:
+          Deposit age chronologic.
+
+          Radiometric age (Ma) of ore-related minerals.
+          Textual values of no more than 75 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              90 records have no value for depage.
+      Attribute:
+        Attribute_Label: depagegeol
+        Attribute_Definition:
+          Deposit age geologic.
+
+          Inferred geologic age of ore deposite.
+          Textual values of no more than 51 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              12 records have no value for depagegeol.
+      Attribute:
+        Attribute_Label: deparea
+        Attribute_Definition:
+          Deposit area.
+
+          Areal extent of deposit (square km).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              11 records have no value for deparea.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.01
+            Range_Domain_Maximum: 10
+            Attribute_Units_of_Measure: sq km
+      Attribute:
+        Attribute_Label: depcluster
+        Attribute_Definition:
+          Deposit cluster.
+
+          Name of  spatial grouping to which this deposit belongs as used by
+          local geologists.
+          Textual values of no more than 32 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              3 records have no value for depcluster.
+      Attribute:
+        Attribute_Label: deplen
+        Attribute_Definition:
+          Deposit length.
+
+          Length (longest dimension of deposit) (km).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 8
+            Attribute_Units_of_Measure: km
+      Attribute:
+        Attribute_Label: depshape
+        Attribute_Definition:
+          Deposit shape.
+
+          Deposit shape and structural style.
+          Textual values of no more than 174 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              3 records have no value for depshape.
+      Attribute:
+        Attribute_Label: depthick
+        Attribute_Definition:
+          Deposit thickness.
+
+          Thickness (narrowest direction of deposit) (m).
+          Textual values of no more than 5 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              37 records have no value for depthick.
+      Attribute:
+        Attribute_Label: depwidth
+        Attribute_Definition:
+          Deposit width.
+
+          Width (intermediate dimension) of deposit (km).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 1.9
+            Attribute_Units_of_Measure: km
+      Attribute:
+        Attribute_Label: dikesill
+        Attribute_Definition:
+          Dikes or sills.
+
+          Presence of dikes or sills within deposit area.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              54 records have no value for dikesill.
+      Attribute:
+        Attribute_Label: discdate
+        Attribute_Definition:
+          Discovery date.
+
+          Date of discovery.
+          Textual values of no more than 23 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              30 records have no value for discdate.
+      Attribute:
+        Attribute_Label: faultzone
+        Attribute_Definition:
+          Fault zone.
+
+          Presence of fault zone near the deposit.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              47 records have no value for faultzone.
+      Attribute:
+        Attribute_Label: geochem
+        Attribute_Definition:
+          Geochemical indicators.
+
+          Elements of anomalous concentrations associated with the deposit.
+          Textual values of no more than 41 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              18 records have no value for geochem.
+      Attribute:
+        Attribute_Label: partsize
+        Attribute_Definition:
+          Gold particle size.
+
+          Average size of gold particles (m).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 51050
+            Attribute_Units_of_Measure: micrometers
+      Attribute:
+        Attribute_Label: heapleach
+        Attribute_Definition:
+          Heap leach.
+
+          Au extraction by heap leach.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              39 records have no value for heapleach.
+      Attribute:
+        Attribute_Label: introck
+        Attribute_Definition:
+          Intrusive rock.
+
+          Presence of  intrusive rock within deposit area and in vicinity (2
+          km).
+          Textual values of no more than 128 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              51 records have no value for introck.
+      Attribute:
+        Attribute_Label: introckage
+        Attribute_Definition:
+          Intrusive age.
+
+          Age of associated intrusive rock (radiometric, in ma, or geologic
+          age).
+          Textual values of no more than 49 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              52 records have no value for introckage.
+      Attribute:
+        Attribute_Label: latitude
+        Attribute_Definition:
+          Geographic latitude.
+
+          Latitude of deposit in decimal degrees (calculated from values in
+          degrees, minutes, and seconds.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.887222222222222
+            Range_Domain_Maximum: 42.0797222222222
+            Attribute_Units_of_Measure: decimal degrees
+      Attribute:
+        Attribute_Label: latdeg
+        Attribute_Definition:
+          Latitude degrees.
+
+          Latitude component, degrees.
+          Integer values.
+          Integer of width 3.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 42
+            Attribute_Units_of_Measure: degrees
+      Attribute:
+        Attribute_Label: latmin
+        Attribute_Definition:
+          Latitude minutes.
+
+          Latitude component, minutes.
+          Integer values.
+          Integer of width 2.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 59
+            Attribute_Units_of_Measure: minutes
+      Attribute:
+        Attribute_Label: latsec
+        Attribute_Definition:
+          Latitude seconds.
+
+          Latitude component, seconds.
+          Integer values.
+          Integer of width 2.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 59
+            Attribute_Units_of_Measure: seconds
+      Attribute:
+        Attribute_Label: locacc
+        Attribute_Definition:
+          Location accuracy.
+
+          Qualitative assessment of location accuracy.
+          Textual values of no more than 12 characters.
+      Attribute:
+        Attribute_Label: longitude
+        Attribute_Definition:
+          Geographic longitude.
+
+          Longitude of deposit in decimal degrees (calculated from values in
+          degrees, minutes, and seconds.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -117.503333333333
+            Range_Domain_Maximum: 124.666388888889
+            Attribute_Units_of_Measure: decimal degrees
+      Attribute:
+        Attribute_Label: londeg
+        Attribute_Definition:
+          Longitude degrees.
+
+          Longitude component, degrees.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -117
+            Range_Domain_Maximum: 124
+            Attribute_Units_of_Measure: degrees
+      Attribute:
+        Attribute_Label: lonmin
+        Attribute_Definition:
+          Longitude minutes.
+
+          Longitude component, minutes.
+          Integer values.
+          Integer of width 2.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -59
+            Range_Domain_Maximum: 59
+            Attribute_Units_of_Measure: minutes
+      Attribute:
+        Attribute_Label: lonsec
+        Attribute_Definition:
+          Longitude seconds.
+
+          Longitude component, seconds.
+          Integer values.
+          Integer of width 2.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -59
+            Range_Domain_Maximum: 59
+            Attribute_Units_of_Measure: seconds
+      Attribute:
+        Attribute_Label: depname
+        Attribute_Definition:
+          Deposit name.
+
+          Most recently used deposit name.
+          Textual values of no more than 25 characters.
+      Attribute:
+        Attribute_Label: openpit
+        Attribute_Definition:
+          Open pit.
+
+          Mined or minable by open-pit techniques.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              24 records have no value for openpit.
+      Attribute:
+        Attribute_Label: oreunit
+        Attribute_Definition:
+          Ore bearing unit.
+
+          Geologic unit of ore-bearing rock.
+          Textual values of no more than 123 characters.
+      Attribute:
+        Attribute_Label: orethick
+        Attribute_Definition:
+          Ore bearing unit thickness.
+
+          Thickness of ore-bearing unit (m).
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              33 records have no value for orethick.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 20
+            Range_Domain_Maximum: 3000
+            Attribute_Units_of_Measure: meters
+      Attribute:
+        Attribute_Label: orebreccia
+        Attribute_Definition:
+          Ore breccia.
+
+          Presence of breccia in ore.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              52 records have no value for orebreccia.
+      Attribute:
+        Attribute_Label: owneroper
+        Attribute_Definition:
+          Owner or operator.
+
+          Legal owner of deposit.
+          Textual values of no more than 94 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              25 records have no value for owneroper.
+      Attribute:
+        Attribute_Label: prodton
+        Attribute_Definition:
+          Production tonnage.
+
+          Ore mined (tonnes).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              52 records have no value for prodton.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.03
+            Range_Domain_Maximum: 469
+            Attribute_Units_of_Measure: tonnes
+      Attribute:
+        Attribute_Label: prodyear
+        Attribute_Definition:
+          Production years.
+
+          Years of gold production.
+          Textual values of no more than 27 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              64 records have no value for prodyear.
+      Attribute:
+        Attribute_Label: aurecovery
+        Attribute_Definition:
+          Recovery Au.
+
+          Percentage of gold recovered during extraction.
+          Textual values of no more than 7 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              78 records have no value for aurecovery.
+      Attribute:
+        Attribute_Label: rsvopyear
+        Attribute_Definition:
+          Reserves open pit explanation.
+
+          Reserve classification and year for deposits amenable for open-pit
+          mining.
+          Textual values of no more than 47 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              88 records have no value for rsvopyear.
+      Attribute:
+        Attribute_Label: rsvtonop
+        Attribute_Definition:
+          Reserve tonnage open pit.
+
+          Tonnage of reserve for deposits amenable for open-pit mining.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              88 records have no value for rsvtonop.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.12
+            Range_Domain_Maximum: 248
+            Attribute_Units_of_Measure: tonnes
+      Attribute:
+        Attribute_Label: rsvugyear
+        Attribute_Definition:
+          Reserves undergound explanation.
+
+          Reserve classification and year for deposits amenable for underground
+          mining.
+          Textual values of no more than 33 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              104 records have no value for rsvugyear.
+      Attribute:
+        Attribute_Label: rsvtonug
+        Attribute_Definition:
+          Reserve tonnage undergound.
+
+          Tonnage of reserve for deposits amenable for underground mining.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              104 records have no value for rsvtonug.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.06
+            Range_Domain_Maximum: 16
+            Attribute_Units_of_Measure: tonnes
+      Attribute:
+        Attribute_Label: rscopyear
+        Attribute_Definition:
+          Resources open pit explanation.
+
+          Resource classification and year for deposits amenable for open-pit
+          mining.
+          Textual values of no more than 52 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              70 records have no value for rscopyear.
+      Attribute:
+        Attribute_Label: rsctonop
+        Attribute_Definition:
+          Resources tonnage open pit.
+
+          Tonnage of resource for deposits amenable for  amenable for open-pit
+          mining.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              56 records have no value for rsctonop.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.007
+            Range_Domain_Maximum: 465
+            Attribute_Units_of_Measure: tonnes
+      Attribute:
+        Attribute_Label: rsctonug
+        Attribute_Definition:
+          Resources tonnage underground.
+
+          Tonnage of resource for deposits amenable for  amenable for
+          underground mining.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              102 records have no value for rsctonug.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.038
+            Range_Domain_Maximum: 80
+            Attribute_Units_of_Measure: tonnes
+      Attribute:
+        Attribute_Label: rscugyear
+        Attribute_Definition:
+          Resources underground explanation.
+
+          Resource classification and year for deposits amenable for underground
+          mining.
+          Textual values of no more than 47 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              103 records have no value for rscugyear.
+      Attribute:
+        Attribute_Label: srctongrd
+        Attribute_Definition:
+          Source of tonnage, grade.
+
+          Reference for tonnage and grade information.
+          Textual values of no more than 114 characters.
+      Attribute:
+        Attribute_Label: startdate
+        Attribute_Definition:
+          Startup date.
+
+          Initial and resumed date of mining.
+          Textual values of no more than 17 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              54 records have no value for startdate.
+      Attribute:
+        Attribute_Label: stprov
+        Attribute_Definition:
+          State or Province.
+
+          Second order government units.
+          Textual values of no more than 15 characters.
+      Attribute:
+        Attribute_Label: status
+        Attribute_Definition:
+          Status.
+
+          Status of mining or exploration of deposit.
+          Textual values of no more than 22 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              6 records have no value for status.
+      Attribute:
+        Attribute_Label: stockplu
+        Attribute_Definition:
+          Stocks or plutons.
+
+          Presence of stock or plutons within 2 km of deposits.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              102 records have no value for stockplu.
+      Attribute:
+        Attribute_Label: structure
+        Attribute_Definition:
+          Structural setting.
+
+          Structural control of deposit.
+          Textual values of no more than 129 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              3 records have no value for structure.
+      Attribute:
+        Attribute_Label: subtype
+        Attribute_Definition:
+          Subtype.
+
+          deposit subtype.
+          Textual values of no more than 8 characters.
+      Attribute:
+        Attribute_Label: tect_set
+        Attribute_Definition:
+          Tectonic setting.
+
+          Setting of deposit in regional tectonic unit.
+          Textual values of no more than 125 characters.
+      Attribute:
+        Attribute_Label: tonnage
+        Attribute_Definition:
+          Total tonnage.
+
+          Total tonnage of deposit (production + reserver + resource).
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              5 records have no value for tonnage.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.2
+            Range_Domain_Maximum: 497.3
+            Attribute_Units_of_Measure: tonnes
+      Attribute:
+        Attribute_Label: undergrd
+        Attribute_Definition:
+          Underground.
+
+          Mined  or minable by underground techniques.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              81 records have no value for undergrd.
+      Attribute:
+        Attribute_Label: veinstock
+        Attribute_Definition:
+          Vein stockwork.
+
+          Presence of veins or stockwork.
+          Textual values of no more than 4 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              109 records have no value for veinstock.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: names
+        Entity_Type_Definition: Additional names by which the deposit or site is known, or names of deposits included in the record by rules of proximity
+      Attribute:
+        Attribute_Label: recno
+        Attribute_Definition:
+          Record ID.
+
+          Unique identifier of the site within this database, a value of
+          main:recno.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 119
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+      Attribute:
+        Attribute_Label: role
+        Attribute_Definition:
+          Name role.
+
+          Word indicating how this name relates to the site; as an alternate
+          name (other) or included deposit (include).
+          Textual values of no more than 8 characters.
+      Attribute:
+        Attribute_Label: value
+        Attribute_Definition:
+          Name.
+
+          Alternative name or name of the included deposit.
+          Textual values of no more than 24 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: minerals
+        Entity_Type_Definition: Minerals associated with the site,as gold-bearing, ore minerals, or gangue
+      Attribute:
+        Attribute_Label: recno
+        Attribute_Definition:
+          Record ID.
+
+          Unique identifier of the site within this database, a value of
+          main:recno.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 119
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+      Attribute:
+        Attribute_Label: role
+        Attribute_Definition:
+          Mineral role.
+
+          Role the mineral has in the deposit: gold-bearing (gold), ore, or
+          gangue.
+          Textual values of no more than 8 characters.
+      Attribute:
+        Attribute_Label: value
+        Attribute_Definition:
+          Mineral.
+
+          Name of the mineral.
+          Textual values of no more than 46 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: alteration
+        Entity_Type_Definition: Types of alteration at the site
+      Attribute:
+        Attribute_Label: recno
+        Attribute_Definition:
+          Record ID.
+
+          Unique identifier of the site within this database, a value of
+          main:recno.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 119
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+      Attribute:
+        Attribute_Label: value
+        Attribute_Definition:
+          Alteration.
+
+          Type of alteration reported in the deposit.
+          Textual values of no more than 64 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: hostrock
+        Entity_Type_Definition: Types of host rock lithologies at the site
+      Attribute:
+        Attribute_Label: recno
+        Attribute_Definition:
+          Record ID.
+
+          Unique identifier of the site within this database, a value of
+          main:recno.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 119
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+      Attribute:
+        Attribute_Label: value
+        Attribute_Definition:
+          Rock type.
+
+          Type of lithology associated with host rocks of the deposit.
+          Textual values of no more than 64 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: ref
+        Entity_Type_Definition: Bibliographic references providing information about the site
+      Attribute:
+        Attribute_Label: recno
+        Attribute_Definition:
+          Record ID.
+
+          Unique identifier of the site within this database, a value of
+          main:recno.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 2
+            Range_Domain_Maximum: 119
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 123
+      Attribute:
+        Attribute_Label: seq
+        Attribute_Definition:
+          Sequence.
+
+          Number giving the order in which this reference was shown in the
+          original publication.
+          Integer values.
+          Integer of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 22
+      Attribute:
+        Attribute_Label: reference
+        Attribute_Definition:
+          Reference.
+
+          Bibliographic reference, typically the long form such as is found in
+          the list of references for a scientific paper.
+          Textual values of no more than 512 characters.
+      Attribute:
+        Attribute_Label: onlink
+        Attribute_Definition:
+          Online Linkage.
+
+          URL, if present in the reference.
+          Textual values of no more than 160 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              677 records have no value for onlink.
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: USGS Information Services
+        Contact_Address:
+          Address_Type: mailing
+          Address: Box 25286, Denver Federal Center
+          City: Denver
+          State_or_Province: Colorado
+          Postal_Code: 80255-0046
+          Country: USA
+        Contact_Voice_Telephone: 1-888-ASK-USGS
+        Contact_Facsimile_Telephone: 1-303-202-4695
+        Contact_Electronic_Mail_Address: infoservices@usgs.gov
+    Resource_Description: USGS Open-File Report 2014-1074
+    Distribution_Liability:
+      This report is preliminary and has not been reviewed for
+      conformity with U.S. Geological Survey editorial standards (or
+      with the North American Stratigraphic Code).  Any use of trade,
+      product, or firm names is for descriptive purposes only and does
+      not imply endorsement by the U.S. Government.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: WMS
+          Format_Version_Number: 1.1.1
+          Format_Information_Content: Location and characteristics of 123 sediment-hosted gold deposits worldwide
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/services/sedau?service=WMS&request=GetCapabilities&version=1.1.1
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: WFS
+          Format_Version_Number: 1.0.0
+          Format_Information_Content: Location and characteristics of 123 sediment-hosted gold deposits worldwide
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/wfs/sedau?service=WFS&request=GetCapabilities&version=1.0.0
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: Shapefile
+          Format_Version_Number: 1.0
+          Format_Information_Content: Location and characteristics of 123 sediment-hosted gold deposits worldwide
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/sedau/sedau.zip
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: CSV
+          Format_Version_Number: 1.0
+          Format_Information_Content: Location and characteristics of 123 sediment-hosted gold deposits worldwide
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/sedau/sedau-csv.zip
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: KML
+          Format_Version_Number: 2.2
+          Format_Information_Content: Location and characteristics of 123 sediment-hosted gold deposits worldwide
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/sedau/sedau.kml
+      Fees: none
+  Metadata_Reference_Information:
+    Metadata_Date: 20160209
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Schweitzer, Peter, N
+          Contact_Organization: Eastern Mineral Resources Team
+        Contact_Address:
+          Address_Type: mailing address
+          Address: 12201 Sunrise Valley Drive Mail Stop 954
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+          Country: USA
+        Contact_Voice_Telephone: 703-648-6533
+        Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+    Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998

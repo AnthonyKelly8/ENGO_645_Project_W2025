@@ -1,0 +1,558 @@
+recno,role,value
+2,other,Yangyou
+2,other,Yangyou
+2,other,Yangyou
+2,other,Yangyou
+2,other,Yangyou
+2,other,Yangyou
+4,include,Zhongqu
+4,include,Zhongqu
+4,include,Xingqu
+4,include,Xingqu
+4,include,Xiaruo
+4,include,Zhongqu
+4,include,Xiaruo
+4,include,Xingqu
+4,include,Xiaruo
+4,include,Zhongqu
+4,include,Xingqu
+4,include,Zhongqu
+4,include,Xiaruo
+4,include,Xingqu
+4,include,Xingqu
+4,include,Xiaruo
+4,include,Zhongqu
+4,include,Xiaruo
+7,other,Kuzhubao
+7,other,Kuzhubao
+7,other,Kuzhubao
+7,other,Kuzhubao
+7,other,Kuzhubao
+7,other,Kuzhubao
+9,other,Nanxiang
+9,other,Nanxiang
+9,other,Nanxiang
+9,other,Nanxiang
+9,other,Nanxiang
+9,other,Nanxiang
+11,other,Lannigou
+11,other,Lannigou
+11,other,Lannigou
+11,other,Lannigou
+11,other,Lannigou
+11,other,Lannigou
+12,other,Ding-Ma
+12,other,Ding-Ma
+12,other,Ding-Ma
+12,other,Ding-Ma
+12,other,Ding-Ma
+12,other,Ding-Ma
+21,other,Qiongmo
+21,other,Qiongmo
+21,other,Qiongmo
+21,other,Qiongmo
+21,other,Qiongmo
+21,other,Qiongmo
+29,other,Yinchang
+29,other,Yinchang
+29,other,Yinchang
+29,other,Yinchang
+29,other,Yinchang
+29,other,Yinchang
+32,other,Zeboshan
+32,other,Zeboshan
+32,other,Zeboshan
+32,other,Zeboshan
+32,other,Zeboshan
+32,other,Zeboshan
+33,other,Zhimudang
+33,other,Zhimudang
+33,other,Zhimudang
+33,other,Zhimudang
+33,other,Zhimudang
+33,other,Zhimudang
+35,other,"Zareh Shuran"
+35,other,Zarshouran
+35,other,"Zareh Shuran"
+35,other,"Zareh Shuran"
+35,other,Zarshouran
+35,other,Zarshouran
+35,other,"Zareh Shuran"
+35,other,"Zareh Shuran"
+35,other,Zarshouran
+35,other,Zarshouran
+35,other,"Zareh Shuran"
+35,other,Zarshouran
+37,other,Afgan-Kobeh
+37,other,Afgan-Kobeh
+37,other,Afgan-Kobeh
+37,other,Afgan-Kobeh
+37,other,Afgan-Kobeh
+37,other,Afgan-Kobeh
+40,include,"West Archimedes"
+40,other,"Ruby Hill"
+40,other,"Ruby Hill"
+40,other,"Ruby Hill"
+40,other,"Ruby Hill"
+40,include,"East Archimedes"
+40,other,"Ruby Hill"
+40,include,"West Archimedes"
+40,include,"West Archimedes"
+40,include,"East Archimedes"
+40,include,"East Archimedes"
+40,include,"East Archimedes"
+40,include,"West Archimedes"
+40,include,"East Archimedes"
+40,include,"West Archimedes"
+40,include,"East Archimedes"
+40,include,"West Archimedes"
+40,other,"Ruby Hill"
+44,include,Screamer
+44,include,"West Bazza"
+44,include,
+44,other,"Goldstrike OP"
+44,include,"Long Lac"
+44,include,Screamer
+44,include,"West Bazza"
+44,include,
+44,other,"Goldstrike OP"
+44,other,"Goldstrike OP"
+44,include,
+44,include,"West Bazza"
+44,include,"Long Lac"
+44,include,
+44,other,"Goldstrike OP"
+44,include,Bazza
+44,include,"Deep Post"
+44,include,Bazza
+44,include,"Deep Post"
+44,include,"Long Lac"
+44,include,Screamer
+44,include,"West Bazza"
+44,include,
+44,other,"Goldstrike OP"
+44,include,Bazza
+44,include,"Deep Post"
+44,include,Bazza
+44,include,Bazza
+44,include,"Deep Post"
+44,include,"Long Lac"
+44,include,Screamer
+44,include,"West Bazza"
+44,other,"Goldstrike OP"
+44,include,"Deep Post"
+44,include,"Long Lac"
+44,include,"West Bazza"
+44,include,Screamer
+44,include,Screamer
+44,include,"Long Lac"
+44,include,"Deep Post"
+44,include,Bazza
+45,include,Tallman
+45,include,Tallman
+45,include,Tallman
+45,include,Tallman
+45,include,Tallman
+45,include,Tallman
+46,include,"North Star"
+46,include,Beast
+46,include,Bobcat
+46,include,"North Star"
+46,include,Sold
+46,include,Sold
+46,include,"North Star"
+46,include,Bobcat
+46,include,Beast
+46,include,Beast
+46,include,Bobcat
+46,include,"North Star"
+46,include,Sold
+46,include,Sold
+46,include,Bobcat
+46,include,Beast
+46,include,Beast
+46,include,Bobcat
+46,include,"North Star"
+46,include,Sold
+46,include,Sold
+46,include,"North Star"
+46,include,Bobcat
+46,include,Beast
+51,include,"Carlin East"
+51,include,"Carlin West"
+51,include,"Carlin West"
+51,include,"Carlin East"
+51,include,"Hardie Footwall"
+51,include,"Hardie Footwall"
+51,include,"Carlin West"
+51,include,"Carlin West"
+51,include,"Carlin West"
+51,include,"Carlin West"
+51,include,"Hardie Footwall"
+51,include,"Carlin East"
+51,include,"Carlin East"
+51,include,"Hardie Footwall"
+51,include,"Carlin East"
+51,include,"Hardie Footwall"
+51,include,"Hardie Footwall"
+51,include,"Carlin East"
+54,include,"Ada 52 pit"
+54,include,"Ada 52 pit"
+54,include,"Ada 52 pit"
+54,include,"Ada 52 pit"
+54,include,"Ada 52 pit"
+54,include,"Ada 52 pit"
+55,include,Pediment
+55,include,Pediment
+55,include,Pediment
+55,include,Pediment
+55,include,Pediment
+55,include,Pediment
+60,other,Emigrant
+60,other,Emigrant
+60,other,Emigrant
+60,other,Emigrant
+60,other,Emigrant
+60,other,Emigrant
+62,other,Galaxie
+62,other,Galaxie
+62,other,Galaxie
+62,other,Galaxie
+62,other,Galaxie
+62,other,Galaxie
+63,include,"West Generator Hill"
+63,include,"West Generator Hill"
+63,include,"North Generator Hill"
+63,include,"North Generator Hill"
+63,include,"West Generator Hill"
+63,include,"North Generator Hill"
+63,include,"West Generator Hill"
+63,include,"West Generator Hill"
+63,include,"North Generator Hill"
+63,include,"West Generator Hill"
+63,include,"North Generator Hill"
+63,include,"North Generator Hill"
+64,include,"Summer Camp"
+64,include,Valmy
+64,include,"Summer Camp"
+64,include,"Hansen Creek"
+64,include,"Summer Camp"
+64,include,"Hansen Creek"
+64,include,"Summer Camp"
+64,include,"Hansen Creek"
+64,include,Valmy
+64,include,Valmy
+64,include,"Summer Camp"
+64,include,Valmy
+64,include,"Summer Camp"
+64,include,"Hansen Creek"
+64,include,"Hansen Creek"
+64,include,"Hansen Creek"
+64,include,Valmy
+64,include,Valmy
+71,include,"Chukar Footwall"
+71,include,West-of-West
+71,include,"Chukar Footwall"
+71,include,"Chukar Footwall"
+71,include,"Chukar Footwall"
+71,include,West-of-West
+71,include,"Chukar Footwall"
+71,include,"Chukar Footwall"
+71,include,West-of-West
+71,include,West-of-West
+71,include,West-of-West
+71,include,West-of-West
+72,include,"Northern Golden Butte"
+72,include,"Northern Golden Butte"
+72,include,"Northern Golden Butte"
+72,include,"Northern Golden Butte"
+72,include,"Northern Golden Butte"
+72,include,"Northern Golden Butte"
+74,include,Caribou
+74,include,"Basin pit"
+74,include,Beavertail
+74,include,Caribou
+74,include,Covington
+74,include,Goldtown
+74,include,"Main Zone"
+74,include,Moosehead
+74,include,"Padre Hill"
+74,include,"Basin pit"
+74,include,Beavertail
+74,include,Caribou
+74,include,Covington
+74,include,Goldtown
+74,include,"Main Zone"
+74,include,Moosehead
+74,include,"Padre Hill"
+74,include,"Basin pit"
+74,include,Beavertail
+74,include,Caribou
+74,include,Covington
+74,include,Goldtown
+74,include,"Main Zone"
+74,include,Moosehead
+74,include,"Padre Hill"
+74,include,"Basin pit"
+74,include,Beavertail
+74,include,Caribou
+74,include,Covington
+74,include,Goldtown
+74,include,"Main Zone"
+74,include,Moosehead
+74,include,"Padre Hill"
+74,include,"Basin pit"
+74,include,Beavertail
+74,include,Covington
+74,include,Goldtown
+74,include,"Main Zone"
+74,include,Moosehead
+74,include,"Padre Hill"
+74,include,"Basin pit"
+74,include,Beavertail
+74,include,Caribou
+74,include,Covington
+74,include,Goldtown
+74,include,"Main Zone"
+74,include,Moosehead
+74,include,"Padre Hill"
+81,include,"Four Corners"
+81,include,"Four Corners"
+81,other,"West Leeville"
+81,include,"Four Corners"
+81,other,"West Leeville"
+81,include,"Four Corners"
+81,other,"West Leeville"
+81,other,"West Leeville"
+81,other,"West Leeville"
+81,include,"Four Corners"
+81,include,"Four Corners"
+81,other,"West Leeville"
+85,include,MCE
+85,include,MCE
+85,include,MCE
+85,include,MCE
+85,include,MCE
+85,include,MCE
+86,include,Barrel
+86,include,Coldbug
+86,include,"Deep Post"
+86,include,Griffin
+86,include,"North Post"
+86,include,Rodeo
+86,other,"Goldstrike UG"
+86,include,Rodeo
+86,other,"Goldstrike UG"
+86,include,Rodeo
+86,include,"North Post"
+86,include,Griffin
+86,include,"Deep Post"
+86,include,Coldbug
+86,include,Barrel
+86,include,Banshee
+86,include,Banshee
+86,include,Barrel
+86,include,Coldbug
+86,include,"Deep Post"
+86,include,Griffin
+86,include,"North Post"
+86,include,Rodeo
+86,other,"Goldstrike UG"
+86,include,Banshee
+86,include,Barrel
+86,include,Banshee
+86,include,Griffin
+86,include,"Deep Post"
+86,include,Coldbug
+86,include,Barrel
+86,include,Banshee
+86,include,Coldbug
+86,include,"Deep Post"
+86,include,Griffin
+86,include,"North Post"
+86,other,"Goldstrike UG"
+86,include,Banshee
+86,include,Barrel
+86,other,"Goldstrike UG"
+86,include,Rodeo
+86,include,"North Post"
+86,other,"Goldstrike UG"
+86,include,Rodeo
+86,include,"North Post"
+86,include,Griffin
+86,include,"Deep Post"
+86,include,Coldbug
+89,include,"West Mike"
+89,include,"Main Mike"
+89,include,"Main Mike"
+89,include,"West Mike"
+89,include,"West Mike"
+89,include,"Main Mike"
+89,include,"West Mike"
+89,include,"Main Mike"
+89,include,"Main Mike"
+89,include,"West Mike"
+89,include,"West Mike"
+89,include,"Main Mike"
+91,include,"Coyote Zone"
+91,include,"Coyote Zone"
+91,include,"Coyote Zone"
+91,include,"Coyote Zone"
+91,include,"Coyote Zone"
+91,include,"Coyote Zone"
+94,include,"North Pan"
+94,include,"South Pan"
+94,include,"North Pan"
+94,include,"South Pan"
+94,include,"North Pan"
+94,include,"South Pan"
+94,include,"North Pan"
+94,include,"North Pan"
+94,include,"South Pan"
+94,include,"North Pan"
+94,include,"South Pan"
+94,include,"South Pan"
+97,include,"Trout Creek"
+97,include,"Trout Creek"
+97,include,"Dark Star"
+97,include,"South Bullion"
+97,include,"Trout Creek"
+97,include,"South Bullion"
+97,include,"Dark Star"
+97,include,"Cord Ranch"
+97,include,"Dark Star"
+97,include,"South Bullion"
+97,include,"Trout Creek"
+97,include,"South Bullion"
+97,include,"Cord Ranch"
+97,include,"Trout Creek"
+97,include,"South Bullion"
+97,include,"Dark Star"
+97,include,"Cord Ranch"
+97,include,"Cord Ranch"
+97,include,"Cord Ranch"
+97,include,"Trout Creek"
+97,include,"Cord Ranch"
+97,include,"Dark Star"
+97,include,"South Bullion"
+97,include,"Dark Star"
+98,include,Mag
+98,include,Mag
+98,include,CX
+98,include,"Felix Canyon"
+98,include,"Felix Canyon"
+98,include,CX
+98,include,Mag
+98,include,"Felix Canyon"
+98,include,CX
+98,include,Mag
+98,include,"Felix Canyon"
+98,include,CX
+98,include,Mag
+98,include,"Felix Canyon"
+98,include,CX
+98,include,Mag
+98,include,"Felix Canyon"
+98,include,CX
+99,include,"South Pipeline"
+99,include,"South Pipeline"
+99,include,"South Pipeline"
+99,include,"South Pipeline"
+99,include,"South Pipeline"
+99,include,"South Pipeline"
+102,include,Tess
+102,include,Tess
+102,include,Tess
+102,include,Saddle
+102,include,Saddle
+102,include,Tess
+102,include,Tess
+102,include,Saddle
+102,include,Saddle
+102,include,Saddle
+102,include,Tess
+102,include,Saddle
+105,include,Mahala
+105,include,Dash
+105,include,Dash
+105,include,Dash
+105,include,Dash
+105,include,"Smith East"
+105,include,Mahala
+105,include,Mahala
+105,include,"Smith East"
+105,include,Dash
+105,include,"Smith East"
+105,include,Dash
+105,include,Mahala
+105,include,"Smith East"
+105,include,Mahala
+105,include,"Smith East"
+105,include,"Smith East"
+105,include,Mahala
+108,include,"NW Extension"
+108,include,"NW Extension"
+108,include,"NW Extension"
+108,include,"NW Extension"
+108,include,"NW Extension"
+108,include,"NW Extension"
+109,include,Pattani
+109,include,Pattani
+109,include,Pattani
+109,include,Pattani
+109,include,Pattani
+109,include,Pattani
+110,other,Starvation
+110,other,Starvation
+110,other,Starvation
+110,other,Starvation
+110,other,Starvation
+110,other,Starvation
+111,other,Rossi-Storm
+111,other,Rossi-Storm
+111,other,Rossi-Storm
+111,other,Rossi-Storm
+111,other,Rossi-Storm
+111,other,Rossi-Storm
+116,other,"Water Pipe Canyon"
+116,other,"Water Pipe Canyon"
+116,other,"Water Pipe Canyon"
+116,other,"Water Pipe Canyon"
+116,other,"Water Pipe Canyon"
+116,other,"Water Pipe Canyon"
+117,include,Acrobat
+117,include,"Section 34"
+117,include,Acrobat
+117,include,Jugler
+117,include,"Mountain Top"
+117,include,"Section 34"
+117,include,Acrobat
+117,include,Jugler
+117,include,"Mountain Top"
+117,include,Acrobat
+117,include,Jugler
+117,include,"Mountain Top"
+117,include,"Section 34"
+117,include,"Section 34"
+117,include,"Mountain Top"
+117,include,Jugler
+117,include,Acrobat
+117,include,Jugler
+117,include,"Mountain Top"
+117,include,"Section 34"
+117,include,"Section 34"
+117,include,"Mountain Top"
+117,include,Jugler
+117,include,Acrobat
+119,include,Rustler
+119,include,Rustler
+119,include,Paroni
+119,include,Rustler
+119,include,Paroni
+119,include,Paroni
+119,include,Rustler
+119,include,Paroni
+119,include,Rustler
+119,include,Paroni
+119,include,Paroni
+119,include,Rustler

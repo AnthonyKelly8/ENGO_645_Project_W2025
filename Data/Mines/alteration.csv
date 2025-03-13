@@ -1,0 +1,440 @@
+recno,value
+1,argillization
+1,sericitization
+1,silicification
+2,silicification
+2,pyritization
+3,sericitization
+3,silicification
+4,calcitization
+4,hematitization
+4,silicification
+5,argillization
+5,carbonization
+5,"silicification (jasperoid)"
+5,sulfidation
+6,carbonization
+6,decalcification
+6,oxidation
+6,sericitization
+6,"silicification (jasperoid)"
+7,silicification
+7,sulfidization
+8,argillization
+8,oxidation
+8,"skarn formation (?)"
+8,silicification
+9,oxidation
+9,silicification
+10,argillization
+10,silicification
+11,argillization
+11,carbonization
+11,dolomitization
+11,silicification
+11,sulfidization
+12,calcitization
+12,silicification
+13,argillization
+13,carbonization
+13,oxidation
+13,silicification
+13,sulfidization
+14,argillization
+14,baritization
+14,sericitization
+14,silicification
+15,silicification
+16,argillization
+16,silicification
+17,carbonatization
+17,silicification
+18,oxidation
+18,silicification
+18,sericitization
+18,sulfidization
+19,"silicification (jasperoid, siliceous breccia)"
+20,argillization
+20,carbonatization
+20,silicification
+21,argillization
+21,baritization
+21,decarbonization
+21,silicification
+21,sulfidization
+22,oxidation
+22,silicification
+22,sulfidization
+23,silicification
+24,argillization
+24,dolomitization
+24,"silicification (jasperoid)"
+24,sulfidation
+25,argillization
+25,silicification
+26,silicification
+27,sericitization
+27,silicification
+28,carbonization
+28,sericitization
+28,silicification
+28,sulfidation
+29,calcitization
+29,sericitization
+29,silicification
+30,carbonatization
+30,sericitization
+30,silicification
+30,sulfidation
+31,"contact metamorphism"
+31,sericitization
+31,silicification
+32,"contact metamorphism (skarn)"
+32,calcitization
+32,silicification
+33,carbonatization
+33,"oxidation. silicification"
+33,sulfidation
+34,argillization
+34,decalcification
+34,dolomitization
+34,oxidation
+34,"silicification (jasperoid)"
+35,argillization
+35,decalcification
+35,dolomitization
+35,"silicification (jasperoid)"
+36,argillization
+36,oxidation
+36,sericitization
+36,"silicification (jasperoid)"
+37,argillization
+37,oxidation
+37,"silicification (jasperoid)"
+38,argillization
+38,carbonization
+38,decalcification
+38,silicification
+39,argillization
+39,decalcification
+39,oxidation
+39,"silicification (jasperoid)"
+40,"contact metamorphism (skarn)"
+40,decalcification
+40,"silicification (jasperoid)"
+41,argillization
+41,decalcification
+41,oxidation
+41,"silicification (minor jasperoid)"
+42,argillization
+42,decalcification
+42,oxidation
+42,"minor silicification"
+43,argillization
+43,baritization
+43,decalcification
+43,oxidation
+43,"silicification (jasperoid)"
+44,argillization
+44,"contact metamorphism"
+44,decarbonatization
+44,pyritization
+44,silicification
+44,
+45,carbonization
+45,decalcification
+45,oxidation
+45,"silicification (jasperoid)"
+46,argillization
+46,"contact metamorphism"
+46,decalcification
+46,propylitization
+46,silicification
+47,decarbonatization
+47,"silicification (jasperoid)"
+47,"superposed argillization"
+48,argillization
+48,carbonization
+48,decalcification
+48,"silicification (jasperoid)"
+49,carbonization
+49,decalcification
+49,oxidation
+49,"silicification (jasperoid)"
+50,argillization
+50,decalcification
+50,"silicification (jasperoid)"
+51,argillization
+51,decarbonatization
+51,oxidation
+51,"silicification (jasperoid)"
+52,argillization
+52,decalcification
+52,oxidation
+52,silicification
+53,baritization
+53,"silicification (jasperoid)"
+54,argillization
+54,"contact metamorphism"
+54,decalcification
+54,decarbonization
+54,oxidation
+54,silicification
+55,"contact metamorphism"
+55,decarbonatization
+55,oxidation
+55,silicification
+55,sulfidization
+56,argillization
+56,"oxidation (to180 m depth)"
+56,silicification
+57,argillization
+57,"contact metamorphism (skarn, hornfels)"
+57,dolomitization
+57,propylitization
+57,sericitization
+58,argillization
+58,oxidation
+58,"silicification (jasperoid)"
+59,argillization
+59,decarbonization
+59,oxidation
+59,"silicification (jasperoid)"
+60,argillization
+60,decalcification
+60,dolomitization
+60,oxidation
+60,"silicification (jasperoid)"
+61,argillization
+61,decarbonatization
+61,oxidation
+61,silicification
+62,argillization
+62,oxidation
+62,silicification
+63,argillization
+63,carbonatization
+63,decalcification
+63,oxidation
+63,"silicification (jasperoid)"
+64,"contact metamorphism (hornfels, skarn)"
+64,decalcification
+64,silicification
+64,sulfidization
+65,argillization
+65,"silicification (jasperoid)"
+65,sulfidization
+66,argillization
+66,carbonization
+66,"contact metamorphism (skarn)"
+66,oxidation
+66,silicification
+66,sulfidization
+67,carbonization
+67,decalcification
+67,oxidation
+67,"silicification (jasperoid)"
+68,carbonization
+68,decalcification
+68,oxidation
+68,"silicification (jasperoid)"
+69,argillization
+69,carbonization
+69,decalcification
+69,oxidation
+69,"silicification (jasperoid)"
+70,"silicification (jasperoid)"
+71,argillization
+71,"contact metamorphism"
+71,decarbonatization
+71,"oxidation (+alunite)"
+71,silicification
+72,"silicification (jasperoid)"
+73,carbonization
+73,decalcification
+73,oxidation
+73,"silicification (jasperoid)"
+74,argillization
+74,decalcification
+74,"silicification (jasperoid)"
+75,argillization
+75,decalcification
+75,oxidation
+75,"silicification (jasperoid)"
+76,argillization
+76,decalcification
+76,"silicification (jasperoid)"
+77,argillization
+77,carbonization
+77,decalcification
+77,oxidation
+77,"silicification (jasperoid)"
+78,argillization
+78,decalcification
+78,oxidation
+78,"silicification (jasperoid)"
+79,argillization
+79,decalcification
+79,oxidation
+79,"silicification (jasperoid)"
+80,argillization
+81,decalcification
+81,silicification
+82,argillization
+82,carbonization
+82,decalcification
+82,dolomitization
+82,oxidation
+82,"silicification (jasperoid)"
+83,argillization
+83,decalcification
+83,dolomitization
+83,oxidation
+83,"silicification (jasperoid)"
+84,argillization
+84,decalcification
+84,oxidation
+84,silicification
+85,argillization
+85,carbonization
+85,decalcification
+85,oxidation
+85,"silicification (jasperoid)"
+86,argillization
+86,decarbonatization
+86,silicification
+86,"sericitization-pyritization (within dikes)"
+87,argillization
+87,decalcification
+87,oxidation
+87,"minor silicification"
+88,argillization
+88,carbonization
+88,decalcification
+88,oxidation
+88,"silicification (jasperoid)"
+89,argillization
+89,"contact metamorphism (hornfels, skarn, and K-feldspar)"
+89,decarbonatization
+89,dolomitization
+89,silicification
+90,argillization
+90,decalcification
+90,oxidation
+90,silicification
+91,argillization
+91,decalcification
+91,oxidation
+91,silicification
+92,oxidation
+93,"contact metamorphism (garnet-diopside hornfels, marble)"
+93,decarbonatization
+93,oxidation
+93,"silicification (jasperoid)"
+94,argillization
+94,decalcification
+94,oxidation
+94,"silicification (jasperoid)"
+95,argillization
+95,decarbonatization
+95,oxidation
+95,silicification
+96,argillization
+96,decalcification
+96,oxidation
+96,silicification
+97,argillization
+97,decalcification
+97,oxidation
+97,"silicificattion (jasperoid)"
+98,argillization
+98,"contact metamorphism"
+98,decalcification
+98,oxidation
+98,silicification
+99,argillization
+99,carbonization
+99,"contact metamorphism (low grade)"
+99,decalcification
+99,oxidation
+99,silicification
+100,argillization
+100,oxidation
+100,silicification
+101,argillization
+101,calcification
+101,dolomitization
+101,oxidation
+101,silicification
+102,argillization
+102,"contact (?) biotitization"
+102,dolomitization
+102,"silicification (jasperoid)"
+102,sulfidization
+103,argillization
+103,silicification
+103,sulfidization
+104,decarbonatization
+104,"silicification (jasperoid)"
+105,argillization
+105,decalcification
+105,oxidation
+105,silicification
+106,argillization
+106,"silicification (jasperoid)"
+106,sulfidization
+107,oxidation
+108,decarbonatization
+108,oxidation
+109,argillization
+109,decalcification
+109,oxidation
+109,silicification
+110,argillization
+110,decalcification
+110,silicification
+111,argillization
+111,decarbonatization
+111,silicification
+112,argillization
+112,"contact metamorphism (hornfels, skarn)"
+112,decalcification
+112,silicification
+113,argillization
+113,"contact metamorphism"
+113,decalcification
+113,silicification
+114,argillization
+114,decalcification
+114,"oxidation (+alunite)"
+114,"silicification (jasperoid)"
+115,"contact metamorphism (?)"
+115,decarbonatization
+115,oxidation
+115,"silicification (jasperoid)"
+116,argillization
+116,decalcification
+116,oxidation
+116,silicification
+117,argillization
+117,decalcification
+117,oxidation
+117,silicification
+118,argillization
+118,decalcification
+118,silicification
+119,argillization
+119,decalcification
+119,oxidation
+119,silicification
+120,argillization
+120,oxidation
+120,"silicification (jasperoid)"
+121,argillization
+121,carbonization
+121,"silicification (jasperoid)"
+122,"silicification (jasperoid)"
+123,argillization
+123,decalcification
+123,oxidation
+123,"silicification (jasperoid)"
