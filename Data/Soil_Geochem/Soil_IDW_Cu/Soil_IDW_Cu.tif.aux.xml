@@ -3,24 +3,24 @@
     <Histograms>
       <HistItem>
         <HistMin>0</HistMin>
-        <HistMax>18533.30078125</HistMax>
+        <HistMax>11710.0771484375</HistMax>
         <BucketCount>256</BucketCount>
         <IncludeOutOfRange>1</IncludeOutOfRange>
         <Approximate>0</Approximate>
-        <HistCounts>414094|3631|213|55|24|209|1137|13|13|15|18|21|29|26|29|50|67|75|120|184|53|67|84|52|19|11|10|6|7|3|5|5|2|1|3|3|0|2|2|3|1|0|0|0|2|1|1|0|0|2|1|2|1|2|0|1|1|0|0|0|1|0|0|0|1|1|0|1|0|0|0|0|0|0|1|0|0|0|2|0|1|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|1|0|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+        <HistCounts>98634|5410|211|64|10|12|3|5|8|335|0|1|3|1|4|1|4|1|3|7|4|6|4|8|4|9|8|7|17|22|30|21|12|9|10|10|18|5|3|4|0|1|0|0|1|2|1|0|1|1|1|2|0|1|0|1|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|2|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
       </HistItem>
     </Histograms>
     <Metadata>
-      <MDI key="STATISTICS_MINIMUM">0</MDI>
-      <MDI key="STATISTICS_MAXIMUM">18533.30078125</MDI>
-      <MDI key="STATISTICS_MEAN">24.496496728137</MDI>
-      <MDI key="STATISTICS_STDDEV">94.427967039826</MDI>
+      <MDI key="STATISTICS_COUNT">104949.000000</MDI>
+      <MDI key="STATISTICS_COVARIANCES">8412.777911239646</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_MAXIMUM">11710.077148438</MDI>
+      <MDI key="STATISTICS_MEAN">24.518446033936</MDI>
       <MDI key="STATISTICS_MEDIAN">0.000000</MDI>
-      <MDI key="STATISTICS_COUNT">420394.000000</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
       <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
       <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
-      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
-      <MDI key="STATISTICS_COVARIANCES">8916.640959274377</MDI>
+      <MDI key="STATISTICS_STDDEV">91.721196630003</MDI>
     </Metadata>
   </PAMRasterBand>
 </PAMDataset>
